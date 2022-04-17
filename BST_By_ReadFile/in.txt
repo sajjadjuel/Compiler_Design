@@ -1,0 +1,5 @@
+1 Richard 110 3.5
+2 Philip 95 3.4
+3 Sajjad 92 3.92
+4 Tanim 90 3.8
+5 Juel 106 3.9
